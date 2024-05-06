@@ -1,0 +1,2426 @@
+repo_name: assistaplus/assp-DocsGPT
+report_id: 8a61714ce24a6e9ba4316f25432a9128
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-06T13:40:29+00:00'
+requested_by: dartpain
+provider: github
+branch: main
+detected_tools_count: 166
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docker-compose.yaml
+  detection_source: docker-compose.yaml
+  last_updated_by: Alex
+  last_updated_on: 2023-02-24 17:04:37.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT
+  detection_source: Repo Metadata
+- name: Rust
+  description: A safe, concurrent, practical language
+  website_url: http://www.rust-lang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/Dockerfile
+  detection_source: application/Dockerfile
+  last_updated_by: Alex
+  last_updated_on: 2023-02-23 14:08:34.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/extensions/react-widget/package.json
+  detection_source: extensions/react-widget/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-09-12 13:01:12.000000000 Z
+- name: Next.js
+  description: A small framework for server-rendered universal JavaScript apps
+  website_url: https://nextjs.org/
+  version: 13.5.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docs/package-lock.json
+  detection_source: docs/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-09-07 11:36:39.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/Dockerfile
+  detection_source: frontend/Dockerfile
+  last_updated_by: Alex
+  last_updated_on: 2023-02-24 17:04:37.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/extensions/react-widget/package.json
+  detection_source: extensions/react-widget/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-09-12 13:01:12.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docs/package-lock.json
+  detection_source: docs/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-09-07 11:36:39.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: Alexander Deshkevich
+  last_updated_on: 2023-11-02 21:51:15.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: TaylorS15
+  last_updated_on: 2023-02-15 02:39:53.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/extensions/chrome/package.json
+  detection_source: extensions/chrome/package.json
+  last_updated_by: genie
+  last_updated_on: 2023-03-16 05:24:55.000000000 Z
+- name: Celery
+  description: Distributed task queue
+  website_url: http://www.celeryproject.org/
+  version: 5.3.6
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1075/celery.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: docker-compose.yaml
+  last_updated_by: Anton Larin
+  last_updated_on: 2023-08-13 17:25:55.000000000 Z
+- name: DB
+  description: 'Version control for databases: save, restore, and archive snapshots
+    of your database from the command line'
+  website_url: https://github.com/infostreams/db
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docker-compose.yaml
+  detection_source: docker-compose.yaml
+  last_updated_by: Alex
+  last_updated_on: 2023-02-24 17:04:37.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/api/user/routes.py
+  detection_source: application/api/user/routes.py
+  last_updated_by: Alex
+  last_updated_on: 2023-09-26 09:03:22.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  version: 5.0.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: SQLAlchemy
+  description: The Python SQL Toolkit and Object Relational Mapper
+  website_url: http://www.sqlalchemy.org/
+  version: 2.0.23
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/1839/q5uAkmy7.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/codecov.yml
+  detection_source: codecov.yml
+  last_updated_by: Alex
+  last_updated_on: 2023-09-04 13:48:20.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: ajaythapliyal
+  last_updated_on: 2023-02-07 17:57:21.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/.github/workflows/ci.yml
+  detection_source: ".github/workflows/ci.yml"
+  last_updated_by: Anton Larin
+  last_updated_on: 2023-05-16 06:02:13.000000000 Z
+- name: Logstash
+  description: Collect, Parse, &amp; Enrich Data
+  website_url: http://logstash.net/
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/1683/preview.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.8.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: TaylorS15
+  last_updated_on: 2023-02-10 22:05:10.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/extensions/react-widget/package.json
+  detection_source: extensions/react-widget/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-09-12 13:01:12.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/mock-backend/package.json
+  detection_source: mock-backend/package.json
+  last_updated_by: Akshay
+  last_updated_on: 2023-10-08 13:40:17.000000000 Z
+- name: pytest
+  description: A full-featured Python testing tool to help you write better programs
+  website_url: http://pytest.org/latest/
+  version: 7.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docker-compose.yaml
+  detection_source: docker-compose.yaml
+  last_updated_by: Alex
+  last_updated_on: 2023-03-13 14:20:03.000000000 Z
+- name: Claude
+  description: A next-generation AI assistant for your tasks, no matter the scale
+  website_url: https://www.anthropic.com/product
+  version: 0.8.0
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/101883/default_fddf1fbe1d52baf4dac573b2b7fc24b78cc729b1.jpg
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: DocsGPT
+  description: Open-source documentation assistant
+  website_url: https://docsgpt.arc53.com/
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: GPT Tools
+  image_url: https://img.stackshare.io/service/106426/default_fe99defa5cc984589797bd6069c5fcb38ded79db.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-09-07 11:36:39.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  version: 8.11.1
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: Mongo
+  description: Heroku provides services and tools to build, run, and scale web applications.
+    Follow @herokustatus for platform updates. A @salesforce company.
+  website_url: http://wedesignapps.herokuapp.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3519/3wgIDj3j_normal.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docker-compose.yaml
+  detection_source: docker-compose.yaml
+  last_updated_by: Idan
+  last_updated_on: 2023-06-23 11:56:14.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.26.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: OpenAI
+  description: Creating safe AGI that benefits all
+  website_url: https://openai.com/
+  version: 1.6.1
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: SciPy
+  description: Scientific Computing Tools for Python
+  website_url: http://www.scipy.org
+  version: 1.11.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT
+  detection_source: Repo Metadata
+- name: Torch
+  description: An open-source machine learning library and a script language based
+    on the Lua programming language
+  website_url: http://torch.ch/
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: Vercel AI SDK
+  description: An interoperable, streaming-enabled, edge-ready software development
+    kit for AI apps
+  website_url: https://sdk.vercel.ai/docs
+  version: 1.0.2
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docs/package-lock.json
+  detection_source: docs/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-09-07 11:36:39.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: ajaythapliyal
+  last_updated_on: 2023-02-09 04:33:56.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package.json
+  detection_source: frontend/package.json
+  last_updated_by: ajaythapliyal
+  last_updated_on: 2023-02-24 13:16:46.000000000 Z
+- name: aiohttp
+  description: Async http client/server framework
+  package_url: https://pypi.org/project/aiohttp
+  version: 3.9.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19852/default_d748224707283d9d8a73c2323730c87bda6b313a.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: aiohttp vulnerable to Denial of Service when trying to parse malformed POST
+      requests
+    cve_id: CVE-2024-30251
+    cve_url: https://github.com/advisories/GHSA-5m98-qgg9-wh84
+    detected_date: May 4
+    severity: high
+    first_patched: 3.9.4
+  - name: aiohttp's HTTP parser (the python one, not llhttp) still overly lenient
+      about separators
+    cve_id: CVE-2024-23829
+    cve_url: https://github.com/advisories/GHSA-8qpw-xqxj-h4r2
+    detected_date: Jan 30
+    severity: moderate
+    first_patched: 3.9.2
+  - name: aiohttp is vulnerable to directory traversal
+    cve_id: CVE-2024-23334
+    cve_url: https://github.com/advisories/GHSA-5h86-8mv2-jq9f
+    detected_date: Jan 30
+    severity: moderate
+    first_patched: 3.9.2
+  - name: aiohttp Cross-site Scripting vulnerability on index pages for static file
+      handling
+    cve_id: CVE-2024-27306
+    cve_url: https://github.com/advisories/GHSA-7gpw-8wmc-pm8g
+    detected_date: Apr 19
+    severity: moderate
+    first_patched: 3.9.4
+- name: cryptography
+  description: Cryptography is a package which provides cryptographic recipes and
+    primitives to Python developers
+  package_url: https://pypi.org/project/cryptography
+  version: 41.0.7
+  license: BSD-3-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19850/default_db2ab2702f70e20c272f6ce65251108fb2b8f1ea.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: cryptography NULL pointer dereference with pkcs12.serialize_key_and_certificates
+      when called with a non-matching certificate and private key and an hmac_hash
+      override
+    cve_id: CVE-2024-26130
+    cve_url: https://github.com/advisories/GHSA-6vqw-3v5j-54x4
+    detected_date: Feb 22
+    severity: high
+    first_patched: 42.0.4
+  - name: Python Cryptography package vulnerable to Bleichenbacher timing oracle attack
+    cve_id: CVE-2023-50782
+    cve_url: https://github.com/advisories/GHSA-3ww4-gg4f-jr7f
+    detected_date: Feb 6
+    severity: high
+    first_patched: 42.0.0
+  - name: Null pointer dereference in PKCS12 parsing
+    cve_id: CVE-2024-0727
+    cve_url: https://github.com/advisories/GHSA-9v9h-cgj8-h64p
+    detected_date: Feb 17
+    severity: moderate
+    first_patched: 42.0.2
+- name: ecdsa
+  description: ECDSA cryptographic signature library
+  package_url: https://pypi.org/project/ecdsa
+  version: 0.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19979/default_a82f3cd9981909e38152c6f66eefe94bed2aa5ca.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-03-08 18:20:37.000000000 Z
+  vulnerabilities:
+  - name: Minerva timing attack on P-256 in python-ecdsa
+    cve_id: CVE-2024-23342
+    cve_url: https://github.com/advisories/GHSA-wj6h-64fc-37mp
+    detected_date: Jan 23
+    severity: high
+    first_patched:
+- name: gunicorn
+  description: WSGI HTTP Server for UNIX
+  package_url: https://pypi.org/project/gunicorn
+  version: 21.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19931/default_74a0c20721d3a0a1484d69586401591fe8993db2.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: Request smuggling leading to endpoint restriction bypass in Gunicorn
+    cve_id: CVE-2024-1135
+    cve_url: https://github.com/advisories/GHSA-w3h3-4rj7-4ph4
+    detected_date: Apr 16
+    severity: high
+    first_patched: 22.0.0
+- name: python-jose
+  description: JOSE implementation in Python
+  package_url: https://pypi.org/project/python-jose
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20096/default_5297f13e5d732665caff8f16d9bfcd71481f98b6.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: python-jose algorithm confusion with OpenSSH ECDSA keys
+    cve_id: CVE-2024-33663
+    cve_url: https://github.com/advisories/GHSA-6c5p-j8vq-pqhj
+    detected_date: Apr 27
+    severity: high
+    first_patched:
+  - name: python-jose denial of service via compressed JWE content
+    cve_id: CVE-2024-33664
+    cve_url: https://github.com/advisories/GHSA-cjwg-qfpm-7377
+    detected_date: Apr 27
+    severity: moderate
+    first_patched:
+- name: PyPDF2
+  description: PDF toolkit
+  package_url: https://pypi.org/project/PyPDF2
+  version: 3.0.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20065/default_bb49fb0188726b8922387d8bb6e9b2cd0c3c0ea9.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-03-21 22:16:09.000000000 Z
+  vulnerabilities:
+  - name: pypdf and PyPDF2 possible Infinite Loop when a comment isn't followed by
+      a character
+    cve_id: CVE-2023-36464
+    cve_url: https://github.com/advisories/GHSA-4vvm-4w3v-6mr8
+    detected_date: Jul 1
+    severity: moderate
+    first_patched:
+- name: dnspython
+  description: DNS toolkit
+  package_url: https://pypi.org/project/dnspython
+  version: 2.4.2
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20249/default_47b8ee8db82e43d9eef35923435bd8cc855f3a1b.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: Potential DoS via the Tudoor mechanism in eventlet and dnspython
+    cve_id: CVE-2023-29483
+    cve_url: https://github.com/advisories/GHSA-3rq5-2g8h-59hc
+    detected_date: Apr 13
+    severity: moderate
+    first_patched: 2.6.1
+- name: idna
+  description: Internationalized Domain Names in Applications
+  package_url: https://pypi.org/project/idna
+  version: '3.6'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19863/default_f24e00e4cb7620e436f9d06e0305070e1335922a.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: Internationalized Domain Names in Applications (IDNA) vulnerable to denial
+      of service from specially crafted inputs to idna.encode
+    cve_id: CVE-2024-3651
+    cve_url: https://github.com/advisories/GHSA-jjg7-2v4v-x38h
+    detected_date: Apr 12
+    severity: moderate
+    first_patched: '3.7'
+- name: langchain
+  description: Building applications with LLMs through composability
+  package_url: https://pypi.org/project/langchain
+  version: 0.0.352
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: langchain vulnerable to path traversal
+    cve_id: CVE-2024-3571
+    cve_url: https://github.com/advisories/GHSA-rgp8-pm28-3759
+    detected_date: Apr 17
+    severity: moderate
+    first_patched: 0.0.353
+  - name: langchain Server-Side Request Forgery vulnerability
+    cve_id: CVE-2024-0243
+    cve_url: https://github.com/advisories/GHSA-h9j7-5xvc-qhg5
+    detected_date: Feb 27
+    severity: low
+    first_patched: 0.1.0
+- name: langchain-core
+  description: Building applications with LLMs through composability
+  package_url: https://pypi.org/project/langchain-core
+  version: 0.1.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: LangChain's XMLOutputParser vulnerable to XML Entity Expansion
+    cve_id: CVE-2024-1455
+    cve_url: https://github.com/advisories/GHSA-q84m-rmw3-4382
+    detected_date: Mar 27
+    severity: moderate
+    first_patched: 0.1.35
+  - name: LangChain directory traversal vulnerability
+    cve_id: CVE-2024-28088
+    cve_url: https://github.com/advisories/GHSA-h59x-p739-982c
+    detected_date: Mar 15
+    severity: low
+    first_patched: 0.1.30
+- name: pycryptodome
+  description: Cryptographic library for Python
+  package_url: https://pypi.org/project/pycryptodome
+  version: 3.19.0
+  license: BSD-3-Clause,Unlicense,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19900/default_4f4fb10b6f169603a907dcb35a5a356d784e3bd3.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: PyCryptodome and pycryptodomex side-channel leakage for OAEP decryption
+    cve_id: CVE-2023-52323
+    cve_url: https://github.com/advisories/GHSA-j225-cvw7-qrx7
+    detected_date: Jan 6
+    severity: moderate
+    first_patched: 3.19.1
+- name: pycryptodomex
+  description: Cryptographic library for Python
+  package_url: https://pypi.org/project/pycryptodomex
+  version: 3.19.0
+  license: BSD-3-Clause,Unlicense,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20058/default_b08738f5cbfb89e72f22150df888a7e1df34c927.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: PyCryptodome and pycryptodomex side-channel leakage for OAEP decryption
+    cve_id: CVE-2023-52323
+    cve_url: https://github.com/advisories/GHSA-j225-cvw7-qrx7
+    detected_date: Jan 6
+    severity: moderate
+    first_patched: 3.19.1
+- name: pymongo
+  description: Python driver for MongoDB &lt;http://www.mongodb.org&gt;
+  package_url: https://pypi.org/project/pymongo
+  version: 4.6.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19865/default_7975a21f3bf03129dc3bc4168cf7cb7ee2cc14cc.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: PyMongo Out-of-bounds Read in the bson module
+    cve_id: CVE-2024-21506
+    cve_url: https://github.com/advisories/GHSA-cr6f-gf5w-vhrc
+    detected_date: Apr 9
+    severity: moderate
+    first_patched: 4.6.3
+- name: tqdm
+  description: Fast, Extensible Progress Meter
+  package_url: https://pypi.org/project/tqdm
+  version: 4.66.1
+  license: MPL-2.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19846/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+  vulnerabilities:
+  - name: tqdm CLI arguments injection attack
+    cve_id: CVE-2024-34062
+    cve_url: https://github.com/advisories/GHSA-g7vv-2v7x-gj9p
+    detected_date: May 4
+    severity: low
+    first_patched: 4.66.3
+- name: Flask
+  description: A simple framework for building complex web applications
+  package_url: https://pypi.org/project/Flask
+  version: 3.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19834/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: Flask-Cors
+  description: A Flask extension adding a decorator for CORS support
+  package_url: https://pypi.org/project/Flask-Cors
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19977/default_29192d68c64b1a3be468b1b73c2a129fc390c4f4.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: MarkupSafe
+  description: Safely add untrusted strings to HTML/XML markup
+  package_url: https://pypi.org/project/MarkupSafe
+  version: 2.1.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19945/default_0b0a94e1bdf3e64deeccb23892ca2335bdc30e4f.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: PyJWT
+  description: JSON Web Token implementation in Python
+  package_url: https://pypi.org/project/PyJWT
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19883/default_3863c7bb51d307217c188e059f67ca417c51efe3.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: PySocks
+  description: A Python SOCKS client module
+  package_url: https://pypi.org/project/PySocks
+  version: 1.7.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20098/default_5297f13e5d732665caff8f16d9bfcd71481f98b6.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-03-30 11:44:25.000000000 Z
+- name: PyYAML
+  description: YAML parser and emitter for Python
+  package_url: https://pypi.org/project/PyYAML
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19829/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: Werkzeug
+  description: The comprehensive WSGI web application library
+  package_url: https://pypi.org/project/Werkzeug
+  version: 3.0.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19890/default_87fc2af3f2409064833512bb6fc5b04443a2e6aa.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: aiodns
+  description: Simple DNS resolver for asyncio
+  package_url: https://pypi.org/project/aiodns
+  version: 3.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20189/default_c5c395350b07388a35a5e9efffb0ea706d6e196d.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: amqp
+  description: Low-level AMQP client for Python
+  package_url: https://pypi.org/project/amqp
+  version: 5.2.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20296/default_fbb28b4e332d257da7e7f1277d3ce073b5270511.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: anthropic
+  description: The official Python library for the anthropic API
+  package_url: https://pypi.org/project/anthropic
+  version: 0.8.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: anyio
+  description: High level compatibility layer for multiple asynchronous event loop
+    implementations
+  package_url: https://pypi.org/project/anyio
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20757/default_c1e4fc9b7faffe723aa1e18d3dd3049b39849e4d.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: async-timeout
+  description: Timeout context manager for asyncio programs
+  package_url: https://pypi.org/project/async-timeout
+  version: 4.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20820/default_33e8d7fbba8bfff26ed0101b65f3a3af5fd63b4e.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: attrs
+  description: Classes Without Boilerplate
+  package_url: https://pypi.org/project/attrs
+  version: 23.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19857/default_4a8a8fdc10130068bf295812b98e9b72fb42fe70.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: billiard
+  description: Python multiprocessing fork with improvements and bugfixes
+  package_url: https://pypi.org/project/billiard
+  version: 4.2.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20470/default_54107e01f42ee7fb9e6c385c975ec134753aae0a.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: blinker
+  description: Fast, simple object-to-object and broadcast signaling
+  package_url: https://pypi.org/project/blinker
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20273/default_847617f8273bac4dd5921370b0684f29c3397a68.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: boto3
+  description: The AWS SDK for Python
+  package_url: https://pypi.org/project/boto3
+  version: 1.34.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19840/default_1c41e593803157c668b26f27387160254f0f5371.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: botocore
+  description: Low-level, data-driven core of boto 3
+  package_url: https://pypi.org/project/botocore
+  version: 1.34.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19884/default_b8be3f20d4af87021ae3618d5c50b72c985ea31f.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: certifi
+  description: Python package for providing Mozilla's CA Bundle
+  package_url: https://pypi.org/project/certifi
+  version: 2023.11.17
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19849/default_75c38a39b9f0062814489e2ec2cbfca0ca15d9ba.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: cffi
+  description: Foreign Function Interface for Python calling C code
+  package_url: https://pypi.org/project/cffi
+  version: 1.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19909/default_67f813d4aac73d024261bcfded6ef2b918e384a0.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: chardet
+  description: Universal encoding detector for Python 2 and 3
+  package_url: https://pypi.org/project/chardet
+  version: 5.2.0
+  license: LGPL-2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19856/default_4a8a8fdc10130068bf295812b98e9b72fb42fe70.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: charset-normalizer
+  description: The Real First Universal Charset Detector
+  package_url: https://pypi.org/project/charset-normalizer
+  version: 3.3.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: click
+  description: Composable command line interface toolkit
+  package_url: https://pypi.org/project/click
+  version: 8.1.7
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19830/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: click-plugins
+  description: An extension module for click to enable registering CLI commands via
+    setuptools entry-points
+  package_url: https://pypi.org/project/click-plugins
+  version: 1.1.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20361/default_a54cbb457d7aac7ab53484c3473848dbdd84d806.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: dataclasses-json
+  description: Easily serialize dataclasses to and from JSON
+  package_url: https://pypi.org/project/dataclasses-json
+  version: 0.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20519/default_ded6d17aa418fbd05ff28b85345c77ab878c6b37.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: decorator
+  description: Decorators for Humans
+  package_url: https://pypi.org/project/decorator
+  version: 5.1.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19911/default_bc82f0b22ca8fd942e21c317967f4ab61f43eb2c.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: dill
+  description: Serialize all of python
+  package_url: https://pypi.org/project/dill
+  version: 0.3.7
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19972/default_735d20726524f3a2b12f956af25bde52f942f85a.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: distro
+  description: Distro - an OS platform information API
+  package_url: https://pypi.org/project/distro
+  version: 1.8.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20579/default_c2fe08b928beca268da55c7fc17121eb06b5e794.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: entrypoints
+  description: Discover and load entry points from installed packages
+  package_url: https://pypi.org/project/entrypoints
+  version: '0.4'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20424/default_6d9e48c73a51a5ed50a36bba10e7dc73dd24c660.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: filelock
+  description: A platform independent file lock
+  package_url: https://pypi.org/project/filelock
+  version: 3.13.1
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20204/default_645e4030c04804ccf56eaad54caf7b7a73a44c64.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: fsspec
+  description: File-system specification
+  package_url: https://pypi.org/project/fsspec
+  version: 2023.12.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: geojson
+  description: Python bindings and utilities for GeoJSON
+  package_url: https://pypi.org/project/geojson
+  version: 2.5.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20596/default_9322f13ef9811bfc120f244dc670f7e4fb5b8aa3.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: greenlet
+  description: Lightweight in-process concurrent programming
+  package_url: https://pypi.org/project/greenlet
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20137/default_e3ea003987b13e5c9b8c9000c748b25a9c0d9ecd.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: h11
+  description: A pure-Python
+  package_url: https://pypi.org/project/h11
+  version: 0.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: httpx
+  description: The next generation HTTP client
+  package_url: https://pypi.org/project/httpx
+  version: 0.26.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20315/default_5f4e928dbcb1c4db4050881fc2e0229785fc931c.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: huggingface-hub
+  description: Client library to download and publish models
+  package_url: https://pypi.org/project/huggingface-hub
+  version: 0.20.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: iniconfig
+  description: Brain-dead simple config-ini parsing
+  package_url: https://pypi.org/project/iniconfig
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: itsdangerous
+  description: Various helpers to pass data to untrusted environments and back
+  package_url: https://pypi.org/project/itsdangerous
+  version: 2.1.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19989/default_b1f1fc9c4c59a78443018e01395203ba8c61dcde.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: jmespath
+  description: JSON Matching Expressions
+  package_url: https://pypi.org/project/jmespath
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19993/default_1ae269f6aa26d7008f18ed620309f6ae89bbfa12.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: joblib
+  description: 'Lightweight pipelining: using Python functions as pipeline jobs'
+  package_url: https://pypi.org/project/joblib
+  version: 1.3.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20033/default_5a21cf44b42c3ef13f57dcd42ae753240ea7e808.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: jsonpatch
+  description: Apply JSON-Patches
+  package_url: https://pypi.org/project/jsonpatch
+  version: '1.33'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20389/default_dbae17f97e8212cfa7ac5c2981eb06a9bf0f7b40.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: jsonpointer
+  description: Identify specific nodes in a JSON document
+  package_url: https://pypi.org/project/jsonpointer
+  version: '2.4'
+  license: Zed
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: kombu
+  description: Messaging library for Python
+  package_url: https://pypi.org/project/kombu
+  version: 5.3.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20085/default_36085c16346155862c5c1303e8a0a70416453533.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: lazy-object-proxy
+  description: A fast and thorough lazy object proxy
+  package_url: https://pypi.org/project/lazy-object-proxy
+  version: 1.10.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20270/default_8197520bb021ab2bc2cb991350ef948366688c94.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: loguru
+  description: Python logging made
+  package_url: https://pypi.org/project/loguru
+  version: 0.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20043/default_15ea2ed8281eccea374610791971ca44800f16ec.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: lxml
+  description: Powerful and Pythonic XML processing library combining libxml2/libxslt
+    with the ElementTree API
+  package_url: https://pypi.org/project/lxml
+  version: 4.9.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19835/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: marshmallow
+  description: A lightweight library for converting complex datatypes to and from
+    native Python datatypes
+  package_url: https://pypi.org/project/marshmallow
+  version: 3.20.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19893/default_f716e4bc541a9eb6e3f5b7a20d7c35355075b0b4.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: marshmallow-enum
+  description: Enum field for Marshmallow
+  package_url: https://pypi.org/project/marshmallow-enum
+  version: 1.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20691/default_e101f630b218074f7e0ffedc3ee839844bbf811d.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: mpmath
+  description: Python library for arbitrary-precision floating-point arithmetic
+  package_url: https://pypi.org/project/mpmath
+  version: 1.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-03-30 11:44:25.000000000 Z
+- name: multidict
+  description: Multidict implementation
+  package_url: https://pypi.org/project/multidict
+  version: 6.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20160/default_8822b1755ae0c97a622ebcb1aa9cafa328004f81.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: multiprocess
+  description: Better multiprocessing and multithreading in python
+  package_url: https://pypi.org/project/multiprocess
+  version: 0.70.15
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20654/default_4658783a4f70e14bc0c2a151840ea9736539842c.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: networkx
+  description: Python package for creating and manipulating graphs and networks
+  package_url: https://pypi.org/project/networkx
+  version: 3.2.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19877/default_8902c10687fbcd6273bdbe119fff40fa1180763f.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: nltk
+  description: Natural Language Toolkit
+  package_url: https://pypi.org/project/nltk
+  version: 3.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20023/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-03-14 14:29:36.000000000 Z
+- name: openai
+  description: The official Python library for the openai API
+  package_url: https://pypi.org/project/openai
+  version: 1.6.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: openapi-spec-validator
+  description: OpenAPI Spec validator
+  package_url: https://pypi.org/project/openapi-spec-validator
+  version: 0.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20751/default_d419cf062815936ee69765716b14264e7e620702.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: packaging
+  description: Core utilities for Python packages
+  package_url: https://pypi.org/project/packaging
+  version: '23.2'
+  license: BSD-3-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19894/default_f716e4bc541a9eb6e3f5b7a20d7c35355075b0b4.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: pathos
+  description: Parallel graph management and execution in heterogeneous computing
+  package_url: https://pypi.org/project/pathos
+  version: 0.3.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20414/default_834dddd57f7b1404b19fa6cd08f22a7da3156be5.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: pluggy
+  description: Plugin and hook calling mechanisms for python
+  package_url: https://pypi.org/project/pluggy
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20041/default_77eeab9aff24a2723c1f19fed32966a15b17d874.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: pox
+  description: Utilities for filesystem exploration and automated builds
+  package_url: https://pypi.org/project/pox
+  version: 0.3.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: prance
+  description: Resolving Swagger/OpenAPI 2.0 and 3.0.0 Parser
+  package_url: https://pypi.org/project/prance
+  version: 23.6.21
+  license: MITNFA
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: prompt-toolkit
+  description: Library for building powerful interactive command lines in Python
+  package_url: https://pypi.org/project/prompt-toolkit
+  version: 3.0.43
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20821/default_807bb6c1af3ee7076c92bf3b4deb3e13b204d369.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: pyasn1
+  description: ASN.1 types and codecs
+  package_url: https://pypi.org/project/pyasn1
+  version: 0.5.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19915/default_37434feaacace26053e41d6e4802560af16ebe44.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: pycares
+  description: Python interface for c-ares
+  package_url: https://pypi.org/project/pycares
+  version: 4.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: pycparser
+  description: C parser in Python
+  package_url: https://pypi.org/project/pycparser
+  version: '2.21'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20072/default_d7fc4eabe57370d13c2a8ad2f7f6bb876c96c66d.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: pydantic
+  description: Data validation and settings management using python 3.6 type hinting
+  package_url: https://pypi.org/project/pydantic
+  version: 2.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20022/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 14:08:03.000000000 Z
+- name: python-dateutil
+  description: Extensions to the standard Python datetime module
+  package_url: https://pypi.org/project/python-dateutil
+  version: 2.8.2
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: python-dotenv
+  description: Add .env support to your django/flask apps in development and deployments
+  package_url: https://pypi.org/project/python-dotenv
+  version: 1.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20095/default_3141eabecdd8efa55de73a33c43f2ac0d5bbf954.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: pytz
+  description: World timezone definitions, modern and historical
+  package_url: https://pypi.org/project/pytz
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19841/default_bb711fa267b2329ed689711a5adb7d9e74610b20.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: regex
+  description: Alternative regular expression module, to replace re
+  package_url: https://pypi.org/project/regex
+  version: 2023.10.3
+  license: Python-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19923/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.31.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-23 06:07:55.000000000 Z
+- name: rsa
+  description: Pure-Python RSA implementation
+  package_url: https://pypi.org/project/rsa
+  version: '4.9'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20021/default_faea030602e3d71554c57e6fc53190ac830da00d.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: ruamel.yaml
+  description: Ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation
+    of comments
+  package_url: https://pypi.org/project/ruamel.yaml
+  version: 0.18.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19918/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: s3transfer
+  description: An Amazon S3 Transfer Manager
+  package_url: https://pypi.org/project/s3transfer
+  version: 0.10.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20042/default_15ea2ed8281eccea374610791971ca44800f16ec.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: scikit-learn
+  description: A set of python modules for machine learning and data mining
+  package_url: https://pypi.org/project/scikit-learn
+  version: 1.3.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19898/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: six
+  description: Python 2 and 3 compatibility utilities
+  package_url: https://pypi.org/project/six
+  version: 1.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 12:45:29.000000000 Z
+- name: sympy
+  description: Computer algebra system
+  package_url: https://pypi.org/project/sympy
+  version: '1.12'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19976/default_29192d68c64b1a3be468b1b73c2a129fc390c4f4.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: tenacity
+  description: Retry code until it succeeds
+  package_url: https://pypi.org/project/tenacity
+  version: 8.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20027/default_fd02050783f95269bfcc5c4d11f1c75dd423cd1d.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: torchvision
+  description: Image and video datasets and models for torch deep learning
+  package_url: https://pypi.org/project/torchvision
+  version: 0.16.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20377/default_86c41789cbd5dc6b872b122419740f58f5d2f18a.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: typing-inspect
+  description: Runtime inspection utilities for typing module
+  package_url: https://pypi.org/project/typing-inspect
+  version: 0.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: vine
+  description: Promises, promises, promises
+  package_url: https://pypi.org/project/vine
+  version: 5.1.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: wcwidth
+  description: Measures number of Terminal column cells of wide-character codes
+  package_url: https://pypi.org/project/wcwidth
+  version: 0.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20026/default_77bb3e5ea95c1543fd636eba30e7257b80fbd4f6.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: yarl
+  description: Yet another URL library
+  package_url: https://pypi.org/project/yarl
+  version: 1.9.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20083/default_d8789f2f1b5b4e9994bef68371453a20460b4d6e.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/application/requirements.txt
+  detection_source: application/requirements.txt
+  last_updated_by: Alex
+  last_updated_on: 2023-12-22 13:25:57.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 4.4.12
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/extensions/react-widget/package-lock.json
+  detection_source: extensions/react-widget/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-06 01:52:56.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 4.5.2
+  - name: Vite's `server.fs.deny` did not deny requests for patterns with directories.
+    cve_id: CVE-2024-31207
+    cve_url: https://github.com/advisories/GHSA-8jhw-289h-jh2g
+    detected_date: Apr 4
+    severity: moderate
+    first_patched: 4.5.3
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docs/package-lock.json
+  detection_source: extensions/react-widget/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-09-12 13:01:12.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/extensions/react-widget/package-lock.json
+  detection_source: extensions/react-widget/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-09-12 13:01:12.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.51.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-04-25 16:01:44.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.51.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-04-25 16:01:44.000000000 Z
+- name: "@vercel/analytics"
+  description: Gain real-time traffic insights with Vercel Web Analytics
+  package_url: https://www.npmjs.com/@vercel/analytics
+  version: 1.0.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docs/package-lock.json
+  detection_source: docs/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-09-07 11:36:39.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: ManishMadan2882
+  last_updated_on: 2023-10-07 23:57:03.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.27.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: ajaythapliyal
+  last_updated_on: 2023-03-05 17:06:57.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: ajaythapliyal
+  last_updated_on: 2023-03-05 17:06:57.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 6.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: ajaythapliyal
+  last_updated_on: 2023-03-05 17:06:57.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.32.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: Alexander Deshkevich
+  last_updated_on: 2023-11-02 21:51:15.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: ajaythapliyal
+  last_updated_on: 2023-02-09 04:33:56.000000000 Z
+- name: json-server
+  description: Serves JSON files through REST routes
+  package_url: https://www.npmjs.com/json-server
+  version: 0.17.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17570/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/mock-backend/package-lock.json
+  detection_source: mock-backend/package.json
+  last_updated_by: Akshay
+  last_updated_on: 2023-10-08 16:10:17.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: ajaythapliyal
+  last_updated_on: 2023-02-24 13:16:46.000000000 Z
+- name: postcss-cli
+  description: CLI for PostCSS
+  package_url: https://www.npmjs.com/postcss-cli
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16326/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docs/package-lock.json
+  detection_source: extensions/react-widget/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-10-03 22:52:56.000000000 Z
+- name: react-copy-to-clipboard
+  description: Copy-to-clipboard React component
+  package_url: https://www.npmjs.com/react-copy-to-clipboard
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17254/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: Alexander Deshkevich
+  last_updated_on: 2023-11-02 21:51:15.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docs/package-lock.json
+  detection_source: docs/package.json
+  last_updated_by: Alex
+  last_updated_on: 2023-09-07 11:36:39.000000000 Z
+- name: react-dropzone
+  description: Simple HTML5 drag-drop zone with React.js
+  package_url: https://www.npmjs.com/react-dropzone
+  version: 14.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16979/default_665377899254fe85c1cf6bf7f15e24c4180a76ac.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: Alexander Deshkevich
+  last_updated_on: 2023-11-02 21:51:15.000000000 Z
+- name: react-markdown
+  description: Renders Markdown as React components
+  package_url: https://www.npmjs.com/react-markdown
+  version: 8.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17056/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: Alexander Deshkevich
+  last_updated_on: 2023-11-02 21:51:15.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 8.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: Alexander Deshkevich
+  last_updated_on: 2023-11-02 21:51:15.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: Alexander Deshkevich
+  last_updated_on: 2023-11-02 21:51:15.000000000 Z
+- name: react-syntax-highlighter
+  description: Syntax highlighting component for react with prismjs or highlightjs
+    ast using inline styles
+  package_url: https://www.npmjs.com/react-syntax-highlighter
+  version: 15.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17323/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/frontend/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: Alexander Deshkevich
+  last_updated_on: 2023-11-02 21:51:15.000000000 Z
+- name: remark-gfm
+  description: Remark plugin to support GFM
+  package_url: https://www.npmjs.com/remark-gfm
+  version: 3.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docs/package-lock.json
+  detection_source: frontend/package.json
+  last_updated_by: Alexander Deshkevich
+  last_updated_on: 2023-11-02 21:51:15.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docs/package-lock.json
+  detection_source: extensions/chrome/package.json
+  last_updated_by: genie
+  last_updated_on: 2023-03-16 05:24:55.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/docs/package-lock.json
+  detection_source: mock-backend/package.json
+  last_updated_by: Akshay
+  last_updated_on: 2023-10-08 16:10:17.000000000 Z
+- name: robloach/component-installer
+  description: Allows installation of Components via Composer
+  package_url: https://packagist.org/robloach/component-installer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-DocsGPT/blob/main/extensions/chrome/js/jquery/composer.json
+  detection_source: extensions/chrome/js/jquery/composer.json
+  last_updated_by: Alex
+  last_updated_on: 2023-02-03 13:07:54.000000000 Z
